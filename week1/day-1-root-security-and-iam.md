@@ -51,11 +51,11 @@ Recommended:
 
 ## 2. Create Permission Sets
 
-| Name | Policy | Use |
-|------|--------|-----|
-| Admin | AdministratorAccess | Infra team |
-| PowerUser | PowerUserAccess | Developers |
-| ReadOnly | ReadOnlyAccess | Observers |
+| Name      | Policy              | Use        |
+|-----------|---------------------|------------|
+| Admin     | AdministratorAccess | Infra team |
+| PowerUser | PowerUserAccess     | Developers |
+| ReadOnly  | ReadOnlyAccess      | Observers  |
 
 ---
 
