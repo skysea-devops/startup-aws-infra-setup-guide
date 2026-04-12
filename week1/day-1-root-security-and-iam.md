@@ -29,7 +29,7 @@ aws iam get-account-summary
 
 ----
 
-# Day 2 — IAM Identity Center (SSO)
+# IAM Identity Center (SSO)
 
 ## Goal
 Set up secure human access.

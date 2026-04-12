@@ -7,6 +7,9 @@ Every recommendation follows AWS Well-Architected best practices.
 
 ## Guiding Principles
 Security first: Every access path is auditable; root credentials are locked away from day one.
+
 Everything as code: No manual console changes; all infrastructure is versioned and peer-reviewed.
+
 Blast-radius isolation: Separate accounts for logs, security, and each environment.
+
 Shift-left enforcement: Bad configurations die before merge, not after deploy.
