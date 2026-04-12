@@ -15,8 +15,7 @@ Account → Security Credentials → MFA → Assign MFA
 2. Go to Security Credentials
 3. Assign MFA device
 4. Use:
-   - YubiKey (recommended)
-   - or Authenticator app
+   - Authenticator app
 
 ---
 
@@ -32,7 +31,7 @@ aws iam get-account-summary
 # IAM Identity Center (SSO)
 
 ## Goal
-Set up secure human access.
+Set up secure access.
 
 ---
 
