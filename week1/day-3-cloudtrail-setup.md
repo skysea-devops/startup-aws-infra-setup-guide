@@ -1,6 +1,6 @@
 
 
-# Day 3-4 — CloudTrail Setup
+# Day 3 — CloudTrail Setup
 
 ## Goal
 Log every API call.
