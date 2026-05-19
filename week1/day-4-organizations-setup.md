@@ -1,5 +1,5 @@
 
-# Day 5 — AWS Organizations & Multi-Account Structure
+# Day 4 — AWS Organizations & Multi-Account Structure
 
 ## Goal
 Prepare the AWS organization for multi-account infrastructure management.
